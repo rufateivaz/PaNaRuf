@@ -1,0 +1,3 @@
+inputs/spherical/input3/1.jpg
+inputs/spherical/input3/2.jpg
+inputs/spherical/input3/3.jpg

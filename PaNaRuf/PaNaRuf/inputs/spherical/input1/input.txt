@@ -1,0 +1,4 @@
+inputs/spherical/input1/0001.png
+inputs/spherical/input1/0002.png
+inputs/spherical/input1/0003.png
+inputs/spherical/input1/0004.png

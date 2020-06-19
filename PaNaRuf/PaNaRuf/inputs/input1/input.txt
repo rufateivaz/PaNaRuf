@@ -1,0 +1,5 @@
+inputs/input1/img01.jpg
+inputs/input1/img02.jpg
+inputs/input1/img03.jpg
+inputs/input1/img04.jpg
+inputs/input1/img05.jpg

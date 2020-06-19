@@ -1,0 +1,2 @@
+inputs/input3/bryce_left_01.png
+inputs/input3/bryce_right_01.png

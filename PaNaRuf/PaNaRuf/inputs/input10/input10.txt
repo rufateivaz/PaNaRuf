@@ -1,0 +1,6 @@
+inputs/input10/nature1.jpg
+inputs/input10/nature2.jpg
+inputs/input10/nature3.jpg
+inputs/input10/nature4.jpg
+inputs/input10/nature5.jpg
+inputs/input10/nature6.jpg

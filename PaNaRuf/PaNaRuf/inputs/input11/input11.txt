@@ -1,0 +1,4 @@
+inputs/input11/tajm1.jpg
+inputs/input11/tajm2.jpg
+inputs/input11/tajm3.jpg
+inputs/input11/tajm4.jpg

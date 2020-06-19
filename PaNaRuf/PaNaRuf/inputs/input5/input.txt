@@ -1,0 +1,3 @@
+inputs/input5/hotel1.jpg
+inputs/input5/hotel2.jpg
+inputs/input5/hotel3.jpg
