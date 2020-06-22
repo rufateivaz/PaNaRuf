@@ -12,7 +12,7 @@ The application has three properties:
   <br />
   <img src="https://user-images.githubusercontent.com/25903137/85305120-ea823d80-b4ac-11ea-9e17-530e114d5b9c.png"/>
 
-### 2. Cylindrical Panorama
+## 2. Cylindrical Panorama
    Creates cylindrical panoramic image by stitching multiple overlapping rectilinear images.<br />
 <br />
   <img src="https://user-images.githubusercontent.com/25903137/85307405-29fe5900-b4b0-11ea-8df6-395fe50e018d.jpg" width="266" height="200"/>
@@ -21,7 +21,7 @@ The application has three properties:
   <br />
   <img src="https://user-images.githubusercontent.com/25903137/85307480-413d4680-b4b0-11ea-83e2-7e3f727e4bce.png"/>
   
-  #### 3. Perspective Warping
+  ## 3. Perspective Warping
    Aligns multiple overlapping images over each other by applying perspective mapping.<br />
 <br />
   <img src="https://user-images.githubusercontent.com/25903137/85308754-e4db2680-b4b1-11ea-970b-93f4f486046e.jpg" width="266" height="200"/>
