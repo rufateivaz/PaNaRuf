@@ -15,8 +15,8 @@ The application has three properties:
 ### 2. Cylindrical Panorama
    Creates cylindrical panoramic image by stitching multiple rectilinear images.<br />
 <br />
-  <img src="https://user-images.githubusercontent.com/25903137/85307405-29fe5900-b4b0-11ea-8df6-395fe50e018d.jpg" width="200" height="200"/>
-  <img src="https://user-images.githubusercontent.com/25903137/85307402-28cd2c00-b4b0-11ea-9e63-47b9d3c4077b.jpg" width="200" height="200"/>
-  <img src="https://user-images.githubusercontent.com/25903137/85307404-2965c280-b4b0-11ea-9767-07090914cd88.jpg" width="200" height="200"/>
+  <img src="https://user-images.githubusercontent.com/25903137/85307405-29fe5900-b4b0-11ea-8df6-395fe50e018d.jpg" width="266" height="200"/>
+  <img src="https://user-images.githubusercontent.com/25903137/85307402-28cd2c00-b4b0-11ea-9e63-47b9d3c4077b.jpg" width="266" height="200"/>
+  <img src="https://user-images.githubusercontent.com/25903137/85307404-2965c280-b4b0-11ea-9767-07090914cd88.jpg" width="266" height="200"/>
   <br />
   <img src="https://user-images.githubusercontent.com/25903137/85307480-413d4680-b4b0-11ea-83e2-7e3f727e4bce.png"/>   
