@@ -28,6 +28,6 @@ The application has three properties:
   <img src="https://user-images.githubusercontent.com/25903137/85308757-e573bd00-b4b1-11ea-98b9-29f9b2242de9.jpg" width="266" height="200"/>
   <img src="https://user-images.githubusercontent.com/25903137/85308760-e60c5380-b4b1-11ea-9d26-e3aaecd99963.jpg" width="266" height="200"/>
   <br />
-  <img src="https://user-images.githubusercontent.com/25903137/85307480-413d4680-b4b0-11ea-83e2-7e3f727e4bce.png"/>  
+  <img src="https://user-images.githubusercontent.com/25903137/85308929-266bd180-b4b2-11ea-8345-98e3b6cd9d90.png"/>  
   
 
