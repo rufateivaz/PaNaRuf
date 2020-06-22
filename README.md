@@ -2,11 +2,11 @@
 The application has two properties:
 
 
-# 1. Spherical Panorama
+### 1. Spherical Panorama
   Creates spherical/equirectangular (360 x 180 degrees) panoramic image by stitching multiple well-overlapping radial-symmetric fisheye images.
   <br />
   <br />
-## Example
+# Example
   <img src="https://user-images.githubusercontent.com/25903137/85304345-edc8f980-b4ab-11ea-93f5-37b0be949f0c.png" width="200" height="200"/>
   <img src="https://user-images.githubusercontent.com/25903137/85304311-e4d82800-b4ab-11ea-93fb-4374b6c27e24.png" width="200" height="200"/>
   <img src="https://user-images.githubusercontent.com/25903137/85304323-e7d31880-b4ab-11ea-95a7-c44007b6be33.png" width="200" height="200"/>
